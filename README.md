@@ -1,1 +1,1 @@
-This contains the projects which i have done
+This contains the projects which I have done.
